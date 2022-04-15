@@ -3,4 +3,5 @@ function sum(a,b){
 }
 
 let assign = sum(1,2);
-console.log(assign)
+console.log(assign);
+123123123213
